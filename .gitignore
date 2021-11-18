@@ -1,0 +1,9 @@
+### Ocultar todos os arquivos do tipo .txt
+
+# *.txt  
+
+
+### Ocultar somente o arquivo dados.txt
+
+senha.txt
+.git
